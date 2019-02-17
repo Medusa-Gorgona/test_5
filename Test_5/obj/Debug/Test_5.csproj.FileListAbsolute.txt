@@ -1,0 +1,21 @@
+Z:\8162\Попова Надежда\C_sharp\Test_5\Test_5\obj\Debug\Test_5.csprojAssemblyReference.cache
+Z:\8162\Попова Надежда\C_sharp\Test_5\Test_5\obj\Debug\Test_5.csproj.CoreCompileInputs.cache
+z:\8162\Попова Надежда\C_sharp\Test_5\Test_5\bin\Debug\Test_5.exe.config
+z:\8162\Попова Надежда\C_sharp\Test_5\Test_5\bin\Debug\Test_5.exe
+z:\8162\Попова Надежда\C_sharp\Test_5\Test_5\bin\Debug\Test_5.pdb
+z:\8162\Попова Надежда\C_sharp\Test_5\Test_5\obj\Debug\Test_5.exe
+z:\8162\Попова Надежда\C_sharp\Test_5\Test_5\obj\Debug\Test_5.pdb
+g:\C_sharp\Test_5\Test_5\obj\Debug\Test_5.csprojAssemblyReference.cache
+g:\C_sharp\Test_5\Test_5\obj\Debug\Test_5.csproj.CoreCompileInputs.cache
+g:\C_sharp\Test_5\Test_5\obj\Debug\Test_5.exe
+g:\C_sharp\Test_5\Test_5\obj\Debug\Test_5.pdb
+g:\C_sharp\Test_5\Test_5\bin\Debug\Test_5.exe.config
+g:\C_sharp\Test_5\Test_5\bin\Debug\Test_5.exe
+g:\C_sharp\Test_5\Test_5\bin\Debug\Test_5.pdb
+c:\Users\Nadya\Desktop\Учеба_РИПК\C_sharp\Test_5\Test_5\bin\Debug\Test_5.exe.config
+c:\Users\Nadya\Desktop\Учеба_РИПК\C_sharp\Test_5\Test_5\bin\Debug\Test_5.exe
+c:\Users\Nadya\Desktop\Учеба_РИПК\C_sharp\Test_5\Test_5\bin\Debug\Test_5.pdb
+c:\Users\Nadya\Desktop\Учеба_РИПК\C_sharp\Test_5\Test_5\obj\Debug\Test_5.csprojAssemblyReference.cache
+c:\Users\Nadya\Desktop\Учеба_РИПК\C_sharp\Test_5\Test_5\obj\Debug\Test_5.csproj.CoreCompileInputs.cache
+c:\Users\Nadya\Desktop\Учеба_РИПК\C_sharp\Test_5\Test_5\obj\Debug\Test_5.exe
+c:\Users\Nadya\Desktop\Учеба_РИПК\C_sharp\Test_5\Test_5\obj\Debug\Test_5.pdb
